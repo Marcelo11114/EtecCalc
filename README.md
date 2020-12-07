@@ -13,7 +13,8 @@ Calculadora (Projeto e Publicação)
 ## Manual:
 ![display](display.png)
 ```
-Para efetuar uma operação matematica, digite a expressão que deseja e tecle em seguida a tecla "="  ou a barra de espaço
+Para efetuar uma operação matematica, digite a expressão que deseja e 
+tecle em seguida a tecla "="  ou a barra de espaço.
 ex.:
 
 operaçoes disponiveis
