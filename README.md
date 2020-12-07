@@ -5,10 +5,10 @@ Calculadora (Projeto e Publicação)
 
 
 ```
-                       Projeto Prático: Software e publicação.
-     Projeto desenvolvido para a matéria de Programação de Computadores 1 do curso
-                  de "Informática Nova Matriz e Suporte ao Usuário"
-                    da Escola Técnica Adolpho Berezin"  de 2020
+                  Projeto Prático: Software e publicação.
+Projeto desenvolvido para a matéria de Programação de Computadores 1 do curso
+             de "Informática Nova Matriz e Suporte ao Usuário"
+               da Escola Técnica Adolpho Berezin"  de 2020
 ```
 ## Manual:
 ![display](display.png)
