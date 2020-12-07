@@ -47,7 +47,7 @@ Para usuarios de windows de um duplo clic no icone
 
 ## Agradecimentos
 
-* [Etec Adolpho Berezin](http://eteab.com) 
+* [Etec Adolpho Berezin](http://eteab.com.br) 
 * [Prof.: Ermogenes Palacio](http://github.com/ermogenes)
 * [Prof.: Diego Neri](https://github.com/diegoneri)
 * [Dev C#](http://github.com/ermogenes/aulas-programacao-csharp)
